@@ -1,0 +1,3 @@
+# kidscomputerclub
+
+test readme file
